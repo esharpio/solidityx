@@ -1,4 +1,4 @@
-# solidityx
+# SolidityX
 Fixing solidity through transpiling
 
 ## Goals
